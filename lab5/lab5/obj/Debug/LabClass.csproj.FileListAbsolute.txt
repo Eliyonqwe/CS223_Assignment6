@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\lab5\lab5\bin\Debug\LabClass4.exe.config
+C:\Users\hp\source\repos\lab5\lab5\bin\Debug\LabClass4.exe
+C:\Users\hp\source\repos\lab5\lab5\bin\Debug\LabClass4.pdb
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.mainPage.resources
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.LoginPage.resources
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.Properties.Resources.resources
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.exe
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.pdb
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.viewData.resources
+C:\Users\hp\source\repos\lab5\lab5\obj\Debug\LabClass4.welcomePage.resources
